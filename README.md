@@ -1,7 +1,7 @@
 
-===============
-SolutionsByText: Wrapper for consuming [`solutions by text REST API`](https://www.solutionsbytext.com/api-support/api-documentation/>)
-===============
+
+## SolutionsByText: Wrapper for consuming [`solutions by text REST API`](https://www.solutionsbytext.com/api-support/api-documentation/>)
+
 
 
 ### Installation
