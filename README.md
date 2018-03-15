@@ -1,7 +1,9 @@
 
-=====================================================================
-SolutionsByText: Wrapper for consuming `solutions by text REST API <https://www.solutionsbytext.com/api-support/api-documentation/>`_.
-=====================================================================
+===============
+SolutionsByText: Wrapper for consuming [`solutions by text REST API`](https://www.solutionsbytext.com/api-support/api-documentation/>)
+===============
+
+
 ### Installation
 
         pip install SolutionsByText
